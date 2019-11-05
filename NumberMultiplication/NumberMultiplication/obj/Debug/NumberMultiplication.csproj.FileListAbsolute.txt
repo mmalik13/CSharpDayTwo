@@ -1,0 +1,7 @@
+C:\Users\1332549\Documents\C# Fundamentals\NumberMultiplication\NumberMultiplication\bin\Debug\NumberMultiplication.exe.config
+C:\Users\1332549\Documents\C# Fundamentals\NumberMultiplication\NumberMultiplication\bin\Debug\NumberMultiplication.exe
+C:\Users\1332549\Documents\C# Fundamentals\NumberMultiplication\NumberMultiplication\bin\Debug\NumberMultiplication.pdb
+C:\Users\1332549\Documents\C# Fundamentals\NumberMultiplication\NumberMultiplication\obj\Debug\NumberMultiplication.csprojAssemblyReference.cache
+C:\Users\1332549\Documents\C# Fundamentals\NumberMultiplication\NumberMultiplication\obj\Debug\NumberMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\1332549\Documents\C# Fundamentals\NumberMultiplication\NumberMultiplication\obj\Debug\NumberMultiplication.exe
+C:\Users\1332549\Documents\C# Fundamentals\NumberMultiplication\NumberMultiplication\obj\Debug\NumberMultiplication.pdb

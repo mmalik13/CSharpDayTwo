@@ -1,0 +1,7 @@
+C:\Users\1332549\Documents\C# Fundamentals\StringContainsDemo\StringContainsDemo\bin\Debug\StringContainsDemo.exe.config
+C:\Users\1332549\Documents\C# Fundamentals\StringContainsDemo\StringContainsDemo\bin\Debug\StringContainsDemo.exe
+C:\Users\1332549\Documents\C# Fundamentals\StringContainsDemo\StringContainsDemo\bin\Debug\StringContainsDemo.pdb
+C:\Users\1332549\Documents\C# Fundamentals\StringContainsDemo\StringContainsDemo\obj\Debug\StringContainsDemo.csprojAssemblyReference.cache
+C:\Users\1332549\Documents\C# Fundamentals\StringContainsDemo\StringContainsDemo\obj\Debug\StringContainsDemo.csproj.CoreCompileInputs.cache
+C:\Users\1332549\Documents\C# Fundamentals\StringContainsDemo\StringContainsDemo\obj\Debug\StringContainsDemo.exe
+C:\Users\1332549\Documents\C# Fundamentals\StringContainsDemo\StringContainsDemo\obj\Debug\StringContainsDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\1332549\Documents\C# Fundamentals\OddPositionString\OddPositionString\bin\Debug\OddPositionString.exe.config
+C:\Users\1332549\Documents\C# Fundamentals\OddPositionString\OddPositionString\bin\Debug\OddPositionString.exe
+C:\Users\1332549\Documents\C# Fundamentals\OddPositionString\OddPositionString\bin\Debug\OddPositionString.pdb
+C:\Users\1332549\Documents\C# Fundamentals\OddPositionString\OddPositionString\obj\Debug\OddPositionString.csproj.CoreCompileInputs.cache
+C:\Users\1332549\Documents\C# Fundamentals\OddPositionString\OddPositionString\obj\Debug\OddPositionString.exe
+C:\Users\1332549\Documents\C# Fundamentals\OddPositionString\OddPositionString\obj\Debug\OddPositionString.pdb

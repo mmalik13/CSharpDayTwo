@@ -1,0 +1,6 @@
+C:\Users\1332549\Documents\C# Fundamentals\StringLiterals\StringLiterals\bin\Debug\StringLiterals.exe.config
+C:\Users\1332549\Documents\C# Fundamentals\StringLiterals\StringLiterals\bin\Debug\StringLiterals.exe
+C:\Users\1332549\Documents\C# Fundamentals\StringLiterals\StringLiterals\bin\Debug\StringLiterals.pdb
+C:\Users\1332549\Documents\C# Fundamentals\StringLiterals\StringLiterals\obj\Debug\StringLiterals.csproj.CoreCompileInputs.cache
+C:\Users\1332549\Documents\C# Fundamentals\StringLiterals\StringLiterals\obj\Debug\StringLiterals.exe
+C:\Users\1332549\Documents\C# Fundamentals\StringLiterals\StringLiterals\obj\Debug\StringLiterals.pdb

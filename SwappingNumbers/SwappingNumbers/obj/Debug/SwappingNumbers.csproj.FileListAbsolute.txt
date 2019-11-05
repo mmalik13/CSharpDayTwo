@@ -1,0 +1,7 @@
+C:\Users\1332549\Documents\C# Fundamentals\SwappingNumbers\SwappingNumbers\bin\Debug\SwappingNumbers.exe.config
+C:\Users\1332549\Documents\C# Fundamentals\SwappingNumbers\SwappingNumbers\bin\Debug\SwappingNumbers.exe
+C:\Users\1332549\Documents\C# Fundamentals\SwappingNumbers\SwappingNumbers\bin\Debug\SwappingNumbers.pdb
+C:\Users\1332549\Documents\C# Fundamentals\SwappingNumbers\SwappingNumbers\obj\Debug\SwappingNumbers.csprojAssemblyReference.cache
+C:\Users\1332549\Documents\C# Fundamentals\SwappingNumbers\SwappingNumbers\obj\Debug\SwappingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\1332549\Documents\C# Fundamentals\SwappingNumbers\SwappingNumbers\obj\Debug\SwappingNumbers.exe
+C:\Users\1332549\Documents\C# Fundamentals\SwappingNumbers\SwappingNumbers\obj\Debug\SwappingNumbers.pdb

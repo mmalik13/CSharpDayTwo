@@ -1,0 +1,6 @@
+C:\Users\1332549\Documents\C# Fundamentals\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe.config
+C:\Users\1332549\Documents\C# Fundamentals\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.exe
+C:\Users\1332549\Documents\C# Fundamentals\SumOfNumbers\SumOfNumbers\bin\Debug\SumOfNumbers.pdb
+C:\Users\1332549\Documents\C# Fundamentals\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\1332549\Documents\C# Fundamentals\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.exe
+C:\Users\1332549\Documents\C# Fundamentals\SumOfNumbers\SumOfNumbers\obj\Debug\SumOfNumbers.pdb

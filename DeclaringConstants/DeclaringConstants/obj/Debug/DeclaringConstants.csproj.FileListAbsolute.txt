@@ -1,0 +1,7 @@
+C:\Users\1332549\Documents\C# Fundamentals\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
+C:\Users\1332549\Documents\C# Fundamentals\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+C:\Users\1332549\Documents\C# Fundamentals\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+C:\Users\1332549\Documents\C# Fundamentals\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.csprojAssemblyReference.cache
+C:\Users\1332549\Documents\C# Fundamentals\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.csproj.CoreCompileInputs.cache
+C:\Users\1332549\Documents\C# Fundamentals\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+C:\Users\1332549\Documents\C# Fundamentals\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.pdb

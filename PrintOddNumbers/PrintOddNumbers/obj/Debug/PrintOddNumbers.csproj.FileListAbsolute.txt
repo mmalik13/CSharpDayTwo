@@ -1,0 +1,6 @@
+C:\Users\1332549\Documents\C# Fundamentals\PrintOddNumbers\PrintOddNumbers\bin\Debug\PrintOddNumbers.exe.config
+C:\Users\1332549\Documents\C# Fundamentals\PrintOddNumbers\PrintOddNumbers\bin\Debug\PrintOddNumbers.exe
+C:\Users\1332549\Documents\C# Fundamentals\PrintOddNumbers\PrintOddNumbers\bin\Debug\PrintOddNumbers.pdb
+C:\Users\1332549\Documents\C# Fundamentals\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\1332549\Documents\C# Fundamentals\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.exe
+C:\Users\1332549\Documents\C# Fundamentals\PrintOddNumbers\PrintOddNumbers\obj\Debug\PrintOddNumbers.pdb
